@@ -1,0 +1,297 @@
+.navigation{
+font-family: Roboto,sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #FFFFFF;
+}
+#Home1{
+    position: absolute;
+    width: 65px;
+    height: 28px;
+    left: 85px;
+    top: 68px;
+
+}
+#Tips1{
+    position: absolute;
+    width: 47px;
+    height: 28px;
+    left: 193px;
+    top: 68px;
+}
+#Symptoms1{
+    position: absolute;
+    width: 116px;
+    height: 28px;
+    left: 283px;
+    top: 68px;
+}
+#FAQs1{
+    position: absolute;
+    width: 56px;
+    height: 28px;
+    left: 442px;
+    top: 68px;
+}
+#Youtube1{
+    position: absolute;
+    width: 95px;
+    height: 28px;
+    left: 541px;
+    top: 68px;
+}
+#navibar{
+    word-spacing: 43px;
+    margin-left: 85px;
+}
+
+#home_page{
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #4C0027;
+}
+
+#home_banner{
+position: absolute;
+font-family: Montserrat, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 59px;
+
+color: #E8AFCE;
+width: 1195px;
+height: 118px;
+left: 85px;
+top: 248px;
+}
+
+#Slogan{
+position: absolute;
+width: 943px;
+height: 234px;
+left: 85px;
+top: 395px;
+
+font-family: Montserrat, sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 117px;
+
+color: #FFFFFF;
+
+}
+#virus{
+position: absolute;
+width: 500px;
+height: 500px;
+left: 927px;
+top: 512px;
+}
+#tips{
+position: absolute;
+width: 113px;
+height: 66px;
+left: 664px;
+top: 1053px;
+
+font-family: Montserrat, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+text-align: center;
+
+color: #4C0027;
+}
+#Tip1{
+position: absolute;
+width: 317px;
+height: 66px;
+left: 873px;
+top: 1352px;
+
+font-family: Montserrat, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 54px;
+line-height: 66px;
+color: #000000;
+}
+#mask{
+position: absolute;
+width: 346px;
+height: 346px;
+left: 129px;
+top: 1208px;
+}
+#Tip2{
+position: absolute;
+width: 346px;
+height: 66px;
+left: 160px;
+top: 1785px;
+
+font-family: Montserrat, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#wash{
+position: absolute;
+width: 342px;
+height: 342px;
+left: 883px;
+top: 1652px;
+}
+#Symp{
+position: absolute;
+width: 1440px;
+height: 721px;
+left: 0px;
+top: 2121px;
+
+background: #E8AFCE;
+}
+#Symptoms{
+    position: absolute;
+    width: 300px;
+    height: 66px;
+    left: 570px;
+    top: 54px;
+    
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 66px;
+    /* identical to box height */
+    
+    
+    color: #4C0027;
+}
+table{
+    position: absolute;
+    width: 951px;
+    height: 454px;
+    left: 244px;
+    top: 161px;   
+    background: #FFFFFF;
+    border: 8px solid #750550;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    border-collapse: collapse;
+    text-align: center;
+
+    color: #000000;
+}
+td,th{
+    border: 8px solid #750550;
+    border-collapse: collapse;
+}
+#FAQs{
+    position: absolute;
+    width: 146px;
+    height: 66px;
+    left: 647px;
+    top: 2956px;
+    
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 66px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #4C0027;
+}
+#table{
+    position: absolute;
+    width: 1293px;
+    height: 754px;
+    left: 74px;
+    top: 3095px;
+    
+    background: #FFFFFF;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+.question{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    }
+#Youtube{
+    position: absolute;
+    width: 240px;
+    height: 66px;
+    left: 616px;
+    top: 3894px;
+    
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 66px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #4C0027;
+    
+}
+#video{
+    position: absolute;
+    width: 759px;
+    height: 444.93px;
+    left: 341px;
+    top: 4017px;
+    }
+footer{
+position: absolute;
+width: 1440px;
+height: 219px;
+left: 0px;
+top: 4641px;
+
+background: #4C0027;
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+}
+#footer{
+position: relative;
+top:89px;
+}
